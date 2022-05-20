@@ -1,9 +1,9 @@
 -
 -  👋 Hi, I’m @siqueirahenrique
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in games
+- 🌱 I’m currently learning many new things
+- 💞️ I’m looking to collaborate on I want to collaborate with other people
+
 
 <!---
 siqueirahenrique/siqueirahenrique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
